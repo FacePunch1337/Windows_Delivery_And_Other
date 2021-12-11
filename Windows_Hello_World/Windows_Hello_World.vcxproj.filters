@@ -38,9 +38,6 @@
     <ClCompile Include="Windows_Hello_World.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Calc.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="Pizza.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>

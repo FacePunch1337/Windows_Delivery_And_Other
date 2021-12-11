@@ -147,7 +147,6 @@
     <ClInclude Include="Windows_Hello_World.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Calc.cpp" />
     <ClCompile Include="Pizza.cpp" />
     <ClCompile Include="Windows_Hello_World.cpp" />
   </ItemGroup>
